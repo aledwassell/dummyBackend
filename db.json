@@ -1,27 +1,29 @@
-[
 {
-"group_id": 1,
-"group_name": "delectus aut autem",
-"completed": false
-},
-{
-"group_id": 2,
-"group_name": "quis ut nam facilis et officia qui",
-"completed": false
-},
-{
-"group_id": 3,
-"group_name": "fugiat veniam minus",
-"completed": false
-},
-{
-"group_id": 4,
-"group_name": "et porro tempora",
-"completed": true
-},
-{
-"group_id": 5,
-"group_name": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-"completed": false
+  "groups": [
+    {
+    "group_id": 1,
+    "group_name": "delectus aut autem",
+    "completed": false
+    },
+    {
+    "group_id": 2,
+    "group_name": "quis ut nam facilis et officia qui",
+    "completed": false
+    },
+    {
+    "group_id": 3,
+    "group_name": "fugiat veniam minus",
+    "completed": false
+    },
+    {
+    "group_id": 4,
+    "group_name": "et porro tempora",
+    "completed": true
+    },
+    {
+    "group_id": 5,
+    "group_name": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    "completed": false
+    }
+  ]
 }
-]
