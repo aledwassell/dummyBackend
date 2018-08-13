@@ -26,7 +26,7 @@
     "completed": false
     }
   ],
-  "lists":[
+  "lists": [
     {
       "id": 34,
       "group": {"group_id": 1, "group_name": "group_A"},
