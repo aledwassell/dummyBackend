@@ -29,6 +29,7 @@
   "lists": [
     {
       "id": 34,
+      "valid_status": -1,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
@@ -41,6 +42,7 @@
     },
     {
       "id": 45,
+      "valid_status": 0,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
@@ -53,6 +55,7 @@
     },
     {
       "id": 76,
+      "valid_status": 1,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
@@ -65,6 +68,7 @@
     },
     {
       "id": 32,
+      "valid_status": 1,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
@@ -77,6 +81,7 @@
     },
     {
       "id": 99,
+      "valid_status": -1,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
@@ -89,6 +94,7 @@
     },
     {
       "id": 88,
+      "valid_status": 0,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
@@ -101,6 +107,7 @@
     },
     {
       "id": 77,
+      "valid_status": 1,
       "group": {"group_id": 1, "group_name": "group_A"},
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
