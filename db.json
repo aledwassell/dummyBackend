@@ -25,7 +25,7 @@
     {
       "id": 34,
       "valid_status": -1,
-      "group": {"group_id": 1, "group_name": "group_A"},
+      "group_id": 1,
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
       "description": "description",
@@ -35,7 +35,7 @@
     {
       "id": 45,
       "valid_status": 0,
-      "group": {"group_id": 1, "group_name": "group_A"},
+      "group_id": 2,
       "uploaded_by_user": "Derek",
       "list_name": "Some campaign name",
       "description": "description",
