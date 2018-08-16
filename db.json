@@ -27,7 +27,7 @@
       "valid_status": -1,
       "group_id": 1,
       "uploaded_by_user": "Derek",
-      "list_name": "Some campaign name",
+      "display_name": "Some campaign name",
       "description": "description",
       "assigned_to_broadcast": false,
       "upload_time": "27/07/2018, 16:47"
@@ -37,7 +37,7 @@
       "valid_status": 0,
       "group_id": 2,
       "uploaded_by_user": "Derek",
-      "list_name": "Some campaign name",
+      "display_name": "Some campaign name",
       "description": "description",
       "assigned_to_broadcast": false,
       "upload_time": "27/07/2018, 16:47"
