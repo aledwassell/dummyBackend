@@ -24,23 +24,19 @@
   "lists": [
     {
       "id": 34,
-      "valid_status": -1,
-      "group_id": 1,
-      "uploaded_by_user": "Derek",
       "display_name": "Some campaign name",
+      "group_id": 1,
+      "last_update": "27/07/2018, 16:47",
       "description": "description",
-      "assigned_to_broadcast": false,
-      "upload_time": "27/07/2018, 16:47"
+      "updated_by_user": 1
     },
     {
-      "id": 45,
-      "valid_status": 0,
-      "group_id": 2,
-      "uploaded_by_user": "Derek",
+      "id": 65,
       "display_name": "Some campaign name",
+      "group_id": 0,
+      "last_update": "27/07/2018, 16:47",
       "description": "description",
-      "assigned_to_broadcast": false,
-      "upload_time": "27/07/2018, 16:47"
+      "updated_by_user": 2
     }
   ],
   "numbers": [
